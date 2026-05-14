@@ -1,0 +1,25 @@
+// Hoisiting example for var
+// defination :=
+// JavaScript moves declarations to the top of their scope before execution.
+
+// when we declare like this and print it
+console.log(a);
+var a = 10;
+
+// so how javascript treats it like 
+var a;
+console.log(a);
+a = 20;
+
+// So the declaration is “hoisted” to the top, but the value assignment stays in the same place.
+
+
+//********************** FUNCTION HOISTING 
+
+sayHello(); // works even before the function is written
+
+function sayHello() {
+    console.log("Hello, world!");
+}
+
+
