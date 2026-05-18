@@ -10,4 +10,7 @@ Learning JavaScript and Playwright fundamentals.
   - `03_Variables.js` - Variable declarations and var redeclaration
   - `04_functions_and_hoistingFunction.js` - Function declaration and hoisting
   - `05_hoisitngFor_Var` - Hoisting for var variables
-  - `06_DifferentLiterals.js` - String and numeric literals
+   - `06_DifferentLiterals.js` - String and numeric literals
+   - `07_ternary_operator.js` - Ternary operator examples
+   - `08_incrementAndDecrementOperator.js` - Increment and decrement operators
+   - `prac.js` - Practice exercises for operators
