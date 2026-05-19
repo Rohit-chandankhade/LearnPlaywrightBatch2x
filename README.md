@@ -13,4 +13,5 @@ Learning JavaScript and Playwright fundamentals.
    - `06_DifferentLiterals.js` - String and numeric literals
    - `07_ternary_operator.js` - Ternary operator examples
    - `08_incrementAndDecrementOperator.js` - Increment and decrement operators
-   - `prac.js` - Practice exercises for operators
+    - `prac.js` - Practice exercises for operators
+    - `max2Num.js` - Find maximum of two/three numbers using ternary operator
