@@ -15,3 +15,6 @@ Learning JavaScript and Playwright fundamentals.
    - `08_incrementAndDecrementOperator.js` - Increment and decrement operators
     - `prac.js` - Practice exercises for operators
     - `max2Num.js` - Find maximum of two/three numbers using ternary operator
+    - `funtions.js` - Function declarations, expressions, and arrow functions
+    - `ArraysAndItsFunction.js` - Array methods (push, pop, splice, map, filter, reduce, etc.)
+    - `Task_22.js` - Triangle type checker and FizzBuzz implementation
